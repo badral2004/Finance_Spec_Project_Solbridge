@@ -1,0 +1,2 @@
+This python script calculates abnormal returns based on a simple market adjusted model, more specifically by comparing tickers given in a .csv format, and comparing them with a single market index(such as the S&P500).
+The output format is a .csv as well.
